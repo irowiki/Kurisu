@@ -1,10 +1,10 @@
 ---
 title: Seedminer (Mii)
-url: https://3ds.hacks.guide/seedminer-(mii).html
+url: https://wiki.hacks.guide/wiki/3DS:Seedminer/Mii_mining
 thumbnail-url: https://nintendohomebrew.com/assets/img/nhplai.png
 author.name: NH & Friends
-author.url: https://3ds.hacks.guide/seedminer-(mii).html
-help-desc: Links the Mii Mining guide
+author.url: https://wiki.hacks.guide/wiki/3DS:Seedminer/Mii_mining
+help-desc: Links the Mii Mining guide on the Wiki
 aliases: seedmiiner
 ---
 
